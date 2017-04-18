@@ -726,7 +726,7 @@
     margin-right: 20px;
     margin-top: 17px;
     font-family: "lato";
-    font-size: 12pt;
+    font-size: 14pt;
     font-weight: normal;
     text-decoration: none;
   }
@@ -782,7 +782,7 @@
 
   #up{
     width:100%;
-    height: 45px;
+    height: 75px;
     border-style: solid;
     border-width: thin;
     top: 0;
@@ -809,12 +809,12 @@
 
   #banner{
     width: 100%;
-    height: 127px;
+    height: 160px;
     border-top: solid 1px #000;
     background-image:url(banner.jpg);
     background-repeat: no-repeat;
     background-size: 100% 197px;
-    margin-top: 25px;
+    margin-top: 55px;
   }
 
   #main{
