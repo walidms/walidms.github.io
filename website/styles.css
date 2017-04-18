@@ -368,9 +368,9 @@
     text-align: right;
     color: white;
     margin-right: 20px;
-    margin-top: 17px;
+    margin-top: 24px;
     font-family: "lato";
-    font-size: 14pt;
+    font-size: 19pt;
     font-weight: normal;
     text-decoration: none;
   }
@@ -405,19 +405,19 @@
     h2{
     color: white;
     font-family: "helvetica";
-    font-size: 28px;
+    font-size: 32px;
     font-weight: bold;
     left: 50px;
-    top: 45px;
+    top: 85px;
     position: absolute;
   }
   h3{
     color: white;
     font-family: "lato";
-    font-size: 16pt;
+    font-size: 20pt;
     font-weight: normal;
     left: 45px;
-    top: 85px;
+    top: 125px;
     position: absolute;
   }
   body{
@@ -436,11 +436,11 @@
   }
 
   #social{
-    font-size:18px;
+    font-size:34px;
     color:gray;
     margin-right:15px;
     position: absolute;
-    top: 115px;
+    top: 165px;
     right:10px;
   }
   #social a:link{text-decoration:none;}
@@ -458,7 +458,7 @@
     background-image:url(banner.jpg);
     background-repeat: no-repeat;
     background-size: 100% 197px;
-    margin-top: 55px;
+    margin-top: 65px;
   }
 
   #main{
@@ -501,7 +501,7 @@
   }
 
   #text{
-    padding: 100px;
+    padding: 90px;
     font-size: 20pt;
     width: 500px;
     height: 200px;
@@ -514,12 +514,12 @@
       margin-right: auto;
     }
   #photos img{
-      height:120px;
+      height:200px;
   }
 
   #intro{
     width: 100%;
-    height: 1600px;
+    height: 1200px;
     background-image: url(stuff.jpg);
     border: none;
     background-size: cover;
@@ -838,7 +838,7 @@
   }
 
   #id{
-    top:400px;
+    top:440px;
   	right:150px;
   }
 
