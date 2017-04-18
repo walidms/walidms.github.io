@@ -724,7 +724,7 @@
     text-align: right;
     color: white;
     margin-right: 20px;
-    margin-top: 57px;
+    margin-top: 37px;
     font-family: "lato";
     font-size: 18pt;
     font-weight: normal;
@@ -761,16 +761,16 @@
     h2{
     color: white;
     font-family: "helvetica";
-    font-size: 26px;
+    font-size: 28px;
     font-weight: bold;
     left: 50px;
-    top: 105px;
+    top: 95px;
     position: absolute;
   }
   h3{
     color: white;
     font-family: "lato";
-    font-size: 14pt;
+    font-size: 16pt;
     font-weight: normal;
     left: 45px;
     top: 135px;
