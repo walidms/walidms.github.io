@@ -370,7 +370,7 @@
     margin-right: 20px;
     margin-top: 17px;
     font-family: "lato";
-    font-size: 11pt;
+    font-size: 14pt;
     font-weight: normal;
     text-decoration: none;
   }
@@ -405,7 +405,7 @@
     h2{
     color: white;
     font-family: "helvetica";
-    font-size: 26px;
+    font-size: 28px;
     font-weight: bold;
     left: 50px;
     top: 45px;
@@ -414,7 +414,7 @@
   h3{
     color: white;
     font-family: "lato";
-    font-size: 14pt;
+    font-size: 16pt;
     font-weight: normal;
     left: 45px;
     top: 85px;
