@@ -724,9 +724,9 @@
     text-align: right;
     color: white;
     margin-right: 20px;
-    margin-top: 37px;
+    margin-top: 57px;
     font-family: "lato";
-    font-size: 16pt;
+    font-size: 18pt;
     font-weight: normal;
     text-decoration: none;
   }
@@ -764,7 +764,7 @@
     font-size: 26px;
     font-weight: bold;
     left: 50px;
-    top: 75px;
+    top: 105px;
     position: absolute;
   }
   h3{
@@ -773,7 +773,7 @@
     font-size: 14pt;
     font-weight: normal;
     left: 45px;
-    top: 115px;
+    top: 135px;
     position: absolute;
   }
   body{
@@ -814,7 +814,7 @@
     background-image:url(banner.jpg);
     background-repeat: no-repeat;
     background-size: 100% 197px;
-    margin-top: 55px;
+    margin-top: 65px;
   }
 
   #main{
