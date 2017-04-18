@@ -764,7 +764,7 @@
     font-size: 32px;
     font-weight: bold;
     left: 50px;
-    top: 95px;
+    top: 85px;
     position: absolute;
   }
   h3{
@@ -773,7 +773,7 @@
     font-size: 20pt;
     font-weight: normal;
     left: 45px;
-    top: 135px;
+    top: 125px;
     position: absolute;
   }
   body{
@@ -792,11 +792,11 @@
   }
 
   #social{
-    font-size:18px;
+    font-size:24px;
     color:gray;
     margin-right:15px;
     position: absolute;
-    top: 115px;
+    top: 145px;
     right:10px;
   }
   #social a:link{text-decoration:none;}
